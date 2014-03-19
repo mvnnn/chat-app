@@ -17,3 +17,4 @@ Type `/nick your-nickname` to change your default name.
 - Autofocus on input after send
 - Display `...` when other user is typing
 - Caching and downloading of chat logs
+- Default `send` input bar to the bottom of the screen
