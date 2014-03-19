@@ -7,4 +7,8 @@
     socket.emit('message', message);
   };
 
+  Chat.prototype.sendName = function(nickname) {
+    socket.emit('nickname', nickname);
+  }
+
 })(this);
