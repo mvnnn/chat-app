@@ -34,6 +34,7 @@
     $('button').on("click", function(event) {
       event.preventDefault();
       getMessage();
+      $('input.chat').val('');
     });
   });
 
