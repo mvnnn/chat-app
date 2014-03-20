@@ -1,4 +1,3 @@
-var figaro = require('figaro').parse(figaroJSONPath, callback);
 var newRelic = require('newrelic');
 var static = require('node-static');
 var chat = require('./lib/chat_server');
