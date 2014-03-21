@@ -31,7 +31,7 @@
   };
 
   $(document).ready(function () {
-    $('button').on("click", function(event) {
+    $('form').on("submit", function(event) {
       event.preventDefault();
       getMessage();
       $('input.chat').val('');

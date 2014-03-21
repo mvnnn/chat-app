@@ -13,8 +13,11 @@ Type `/nick your-nickname` to change your default name.
 
 - Fix XSS
 - Change default chat color to distinguish self from other users
-- Implement enter to automatically send
-- Autofocus on input after send
 - Display `...` when other user is typing
 - Caching and downloading of chat logs
 - Default `send` input bar to the bottom of the screen
+
+### Completed add-ons
+
+* Autofocus on input after send  
+* Implement enter to automatically send
